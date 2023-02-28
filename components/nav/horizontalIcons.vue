@@ -15,9 +15,7 @@
 
 <script setup>
 import Github from '../icons/github.vue';
-import Instagram from '../icons/instagram.vue';
 import Linkedin from '../icons/linkedin.vue';
-import Toptal from '../icons/toptal.vue';
 import Gmail from '../icons/gmail.vue';
 
 const icons = [

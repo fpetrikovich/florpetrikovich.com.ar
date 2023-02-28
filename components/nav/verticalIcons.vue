@@ -10,10 +10,7 @@
 
 <script setup>
 import Github from '../icons/github.vue';
-import Instagram from '../icons/instagram.vue';
 import Linkedin from '../icons/linkedin.vue';
-import Toptal from '../icons/toptal.vue';
-
 const icons = [
     { icon: Linkedin, href: 'https://www.linkedin.com/in/florencia-petrikovich/', alt: 'LinkedIn profile.' },
     { icon: Github, href: 'https://github.com/fpetrikovich', alt: 'Github profile.' }
