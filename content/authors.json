@@ -1,0 +1,26 @@
+{
+    "Florencia Petrikovich": {
+        "@context": "http://www.schema.org",
+        "@type": "Person",
+        "@id": "https://florpetrikovich.com.ar/",
+        "name": "Florencia Petrikovich",
+        "alternateName": "Florencia Petrikovich",
+        "nationality": "Argentinian",
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Instituto Tecnológico de Buenos Aires",
+                "sameAs": "http://itba.edu.ar/"
+            }
+        ],
+        "gender": "Male",
+        "jobTitle": "Software Engineer",
+        "url": "https://florpetrikovich.com.ar/",
+        "image": "https://florpetrikovich.com.ar/meta-img.jpg",
+        "sameAs": [
+            "https://florpetrikovich.com.ar/",
+            "https://github.com/fpetrikovich",
+            "https://www.linkedin.com/in/florencia-petrikovich/"
+        ]
+    }
+}
