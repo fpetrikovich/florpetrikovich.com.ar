@@ -5,7 +5,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     const getGDPR = localStorage.getItem('GDPR:accepted');
     nuxtApp.vueApp.use(VueGtag, {
         property: {
-            id: 'G-0Q684KK541'
+            id: 'G-SK6HET6D8Y'
         },
         appName: 'florpetrikovich.com.ar',
         enabled: getGDPR === 'true',
