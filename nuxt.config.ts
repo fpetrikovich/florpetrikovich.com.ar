@@ -74,7 +74,7 @@ export default defineNuxtConfig({
         }
     },
     app: {
-        baseURL: process.env.NODE_ENV == 'gh_pages' ? '/florpetrikovich.com.ar/' : '/',
+        baseURL: process.env.NODE_ENV == 'production' ? '/florpetrikovich.com.ar/' : '/',
         head: {
             htmlAttrs: {
                 lang: 'en'
