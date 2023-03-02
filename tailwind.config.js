@@ -17,14 +17,14 @@ module.exports = {
         'highlight': ['Inter', 'sans-serif']
       },
       colors: {
-        'brand_primary_light': '#124BCF',
-        'brand_secondary_light': '#5eceeb',
-        'brand_secondary_light_saturated': '#5eceeb',
+        'brand_primary_light': '#ff7559',
+        'brand_secondary_light': '#ffb473',
+        'brand_secondary_light_saturated': '#ffb473',
         'typography_primary_light': '#000000',
-        'background_light': '#ffffff',
-        'brand_primary_dark': '#DF9A2C',
-        'brand_secondary_dark': '#6e3129',
-        'brand_secondary_dark_saturated': '#cc5a4b',
+        'background_light': '#f7f1f0',
+        'brand_primary_dark': '#ffb5a7',
+        'brand_secondary_dark': '#f9dcc4',
+        'brand_secondary_dark_saturated': '#fec89a',
         'typography_primary_dark': '#eeeeee',
         'background_dark': '#151515',
         'light': '#F7F7F7'
