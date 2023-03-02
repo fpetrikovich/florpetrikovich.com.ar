@@ -2,6 +2,8 @@
 
 URL for this site is [florpetrikovich.com.ar](https://florpetrikovich.com.ar).
 
+Palette taken from [here](https://coolors.co/palette/ffb5a7-fcd5ce-f8edeb-f9dcc4-fec89a).
+
 ## Setup
 
 Installing dependencies with:

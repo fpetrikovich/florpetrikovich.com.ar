@@ -5,10 +5,10 @@
 </template>
 
 <script setup>
-const title = 'Florencia Petrikovich | Software Engineer and Freelancer';
+const title = 'Florencia Petrikovich | Software Engineer';
 const description =
-    "I'm an Argentina-based Software Engineer (BS, MEng), AWS Certified Solutions Architect Associate and Full-Stack Engineer focused on developing clean, user-friendly, and fast experiences.";
-const image = '/meta-img.jpg';
+    "I am a highly motivated Software Engineer (BS, MEng) experienced in full-stack development, focused on back-end. I'm an energetic learner driven by curiosity and a passion for growth.";
+const image = '/meta-img.webp';
 const url = 'https://florpetrikovich.com.ar';
 
 // Get the authors
@@ -35,7 +35,7 @@ useHead({
         {
             hid: 'keywords',
             name: 'keywords',
-            content: 'Development, Developer, Software, Engineer, Software Engineer, Engineering, Full-Stack, Freelancer, Experiences, AWS, Solutions Architect Associate, SAA-C03'
+            content: 'Development, Developer, Software, Engineer, Software Engineer, Engineering, Full-Stack, Experiences, AWS'
         },
         {
             hid: 'author',

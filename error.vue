@@ -8,7 +8,7 @@
 const title = 'Error Page | Florencia Petrikovich';
 const description =
     "Congrats on finding the error page; you sure did look for it, and now you are sharing it with the world. I suggest you go to the homepage where you can find better stuff.";
-const image = 'meta-img.jpg';
+const image = 'meta-img.webp';
 const url = 'https://florpetrikovich.com.ar/';
 
 useHead({

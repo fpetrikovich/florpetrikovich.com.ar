@@ -110,7 +110,7 @@ const { data: authorData } = await useAsyncData('home', () => queryContent('/aut
 // Set the meta
 const baseUrl = 'https://florpetrikovich.com.ar';
 const canonicalPath = baseUrl + (path + '/').replace(/\/+$/, '/');
-const image = baseUrl + (data.value?.article?.socialImage.src || '/meta-img.jpg');
+const image = baseUrl + (data.value?.article?.socialImage.src || '/meta-img.webp');
 
 // JSON+LD
 const jsonScripts = [

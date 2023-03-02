@@ -74,7 +74,7 @@ try {
 const title = `Page ${pageNo} | Blog | Florencia Petrikovich`;
 const description =
     'A personal blog where Florencia Petrikovich writes about programming and insights he gains on software engineering and different technologies from the industry.';
-const image = 'meta-img.jpg';
+const image = 'meta-img.webp';
 const baseUrl = 'https://florpetrikovich.com.ar/';
 const canonicalPath = `${baseUrl}blog/page/${params.number}/`;
 // Get the authors
