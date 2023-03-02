@@ -6,7 +6,7 @@ import minimatch from 'minimatch';
 // Exclusion patterns
 const exclude = ['/experience**', '/authors**', '/featured-projects/**', '/projects/**'];
 // URLs to include
-const include = ['https://florpetrikovich.com.ar', '/Florencia_Petrikovich-Software_Engineer-CV.pdf', '/blog/'];
+const include = ['https://florpetrikovich.com.ar', '/Florencia-Petrikovich-Software_Engineer-CV.pdf', '/blog/'];
 // Adding blog pages
 const blogPageCount = 1;
 for (let i = 1; i <= blogPageCount; i++) {

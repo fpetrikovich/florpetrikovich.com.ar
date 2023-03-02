@@ -10,9 +10,11 @@
 
 <script setup>
 import Github from '../icons/github.vue';
+import Gmail from '../icons/gmail.vue';
 import Linkedin from '../icons/linkedin.vue';
 const icons = [
     { icon: Linkedin, href: 'https://www.linkedin.com/in/florencia-petrikovich/', alt: 'LinkedIn profile.' },
-    { icon: Github, href: 'https://github.com/fpetrikovich', alt: 'Github profile.' }
+    { icon: Github, href: 'https://github.com/fpetrikovich', alt: 'Github profile.' },
+    { icon: Gmail, href: 'mailto:fpetrikovich@gmail.com', alt: 'Personal email.' }
 ];
 </script>
