@@ -211,11 +211,11 @@ body {
 /* Blog Lists */
 
 .blog-content ul {
-    @apply pl-4;
+    @apply pl-6;
 }
 
 .blog-content ol {
-    @apply pl-5;
+    @apply pl-6;
 }
 
 .blog-content ul {
@@ -224,4 +224,36 @@ body {
 
 .blog-content ol {
     @apply list-decimal;
+}
+
+/* Blog Tables */
+
+.blog-content table {
+    @apply w-full my-4 text-center;
+}
+
+.blog-content tr td, .blog-content tr th {
+    @apply border border-typography_primary_light;
+}
+
+.dark .blog-content tr td, .dark .blog-content tr th {
+    @apply border border-typography_primary_dark;
+}
+
+/* Blog Headers */
+
+.blog-content h2 {
+    @apply font-highlight text-h2_sm leading-h2_sm mb-4;
+}
+
+.blog-content h3 {
+    @apply font-highlight text-h3_sm leading-h3_sm mb-4;
+}
+
+.blog-content h4 {
+    @apply font-highlight text-h4_sm leading-h4_sm mb-2;
+}
+
+.blog-content h5 {
+    @apply font-highlight text-h5_sm leading-h5_sm mb-1;
 }
