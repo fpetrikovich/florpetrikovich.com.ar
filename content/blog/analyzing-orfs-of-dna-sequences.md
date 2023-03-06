@@ -8,7 +8,7 @@ dateUpdated: ''
 author: 'Florencia Petrikovich'
 authorUrl: 'https://www.linkedin.com/in/florencia-petrikovich/'
 socialImage:
-    src: '/img/analyzing-orfs-of-dna--share-img.webp'
+    src: '/img/analyzing-orfs-of-dna-sequences--share-img.webp'
     mime: 'webp'
     alt: 'Picture of blog title with DNA helix in the background.'
     width: 1200
